@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.App {
+
+  background-color: black ;
+  width: 100vw;
+  min-height: 100vh;
+}
+.algorithms p{
+cursor: pointer;
+transition: 0.3s all ease-in;
+}
+.algorithms p:hover{
+  color: rgb(220, 20, 60);
+}
+.bubblesortbutton button{
+  width: 150px;
+  height: 50px;
+  margin: 10px 10px;
+  border: none;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
