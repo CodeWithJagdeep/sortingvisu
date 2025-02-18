@@ -2,6 +2,8 @@
 
 This project provides a visual representation of several popular sorting algorithms. It showcases how algorithms such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort sort an array of random integers. The animations allow users to better understand the sorting process by showing comparisons, swaps, and the final sorted array.
 
+🧨 Live Demo: https://sortingvisu.web.app/
+
 ## Features
 
 - **Sorting Algorithms**: Visualize five common sorting algorithms:
